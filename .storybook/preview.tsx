@@ -1,5 +1,5 @@
 import React from 'react';
-import type { Preview, Story } from '@storybook/react';
+import type { Preview } from '@storybook/react';
 
 const MyDecorator = (Story) => {
   return (
