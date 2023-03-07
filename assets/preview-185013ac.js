@@ -1,0 +1,2 @@
+import{j as e,a as r}from"./jsx-runtime-68f49b4e.js";import"./index-f1f749bf.js";import"./_commonjsHelpers-042e6b4d.js";const a=o=>e("div",{children:[r("span",{children:"Hello Decorator!"}),r(o,{})]}),n={parameters:{backgrounds:{default:"light"},actions:{argTypesRegex:"^on[A-Z].*"},controls:{matchers:{color:/(background|color)$/i,date:/Date$/}}},decorators:[a]};export{n as default};
+//# sourceMappingURL=preview-185013ac.js.map
